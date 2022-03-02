@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "i love alx school"
+pwd
